@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Ariful Islam Masum 👋
 
-<!--
-**ariful10159/ariful10159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **CSE student** at PSTU, currently in my 5th semester.  
+Passionate about **Data Science**, **IoT**, and **Flutter** development.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Programming Languages:** C, C++, Java, Dart, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Flutter  
+- **Databases:** MySQL  
+- **Areas of Interest:** IoT-based projects, Flutter projects, Data Science  
+
+---
+
+## 🎯 What I’m working on
+
+- Building innovative **IoT-based systems**  
+- Developing cross-platform apps with **Flutter**  
+- Exploring **Data Science** concepts and projects  
+
+---
+
+## 📫 How to reach me
+
+📧 arifulislammasum97@gmail.com  
+
+---
+
+## 📈 GitHub Stats
+
+![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful10159&show_icons=true&theme=radical)
+
+---
+
+## ⚡ Fun fact
+
+_"Learning never exhausts the mind."_ – Leonardo da Vinci
