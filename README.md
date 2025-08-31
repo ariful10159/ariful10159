@@ -29,13 +29,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ariful-islam-masum-301465318/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32"/>
   </a>
   <a href="https://twitter.com/your_twitter_here">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="32" height="32"/>
   </a>
   <a href="https://facebook.com/your_facebook_here">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="32" height="32"/>
   </a>
   <a href="https://t.me/ariful10159">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"/>
