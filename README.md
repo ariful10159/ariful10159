@@ -31,8 +31,8 @@
   <a href="https://www.linkedin.com/in/ariful-islam-masum-301465318/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32"/>
   </a>
-  <a href="https://twitter.com/your_twitter_here">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="32" height="32"/>
+ <a href="https://twitter.com/your_twitter_here">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
   <a href="https://facebook.com/your_facebook_here">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" width="32" height="32"/>
