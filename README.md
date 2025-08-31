@@ -28,7 +28,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-here">
+  <a href="[https://linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/ariful-islam-masum-301465318/)">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your_twitter_here">
