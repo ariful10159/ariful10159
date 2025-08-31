@@ -38,9 +38,10 @@
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
   <a href="https://t.me/ariful10159">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"/>
   </a>
 </p>
+
 
 
 ---
