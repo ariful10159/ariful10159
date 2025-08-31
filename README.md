@@ -37,7 +37,11 @@
   <a href="https://facebook.com/your_facebook_here">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
+  <a href="https://t.me/ariful10159">
+    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
+  </a>
 </p>
+
 
 ---
 
