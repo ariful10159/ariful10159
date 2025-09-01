@@ -18,7 +18,7 @@
 
 - 🔭 Currently building **IoT and Flutter projects**  
 - 🧠 Passionate about **Data Science**, **IoT**, and **Mobile App Development**  
-- 📚 Student at **Patuakhali Science and Technology University (PSTU)**,  CSE  
+- 📚 Student at **Patuakhali Science and Technology University (PSTU)**, 5th semester student CSE  
 - 🛠️ Skilled in C, C++, Java, Dart, Flutter, JavaScript, HTML, CSS, and MySQL  
 - 📧 Reach me at: [arifulislammasum97@gmail.com](mailto:arifulislammasum97@gmail.com)  
 - 💻 Explore my work: [GitHub](https://github.com/ariful10159)  
